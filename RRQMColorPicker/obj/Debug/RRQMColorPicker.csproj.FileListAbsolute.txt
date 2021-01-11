@@ -1,0 +1,17 @@
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\bin\Debug\RRQMColorPicker.exe.config
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\bin\Debug\RRQMColorPicker.exe
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\bin\Debug\RRQMColorPicker.pdb
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.csprojAssemblyReference.cache
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\MainWindow.g.cs
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\App.g.cs
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker_MarkupCompile.cache
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker_MarkupCompile.lref
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\App.baml
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\MainWindow.baml
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\Resources\Dictionary.baml
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.g.resources
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.Properties.Resources.resources
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.csproj.GenerateResource.cache
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.csproj.CoreCompileInputs.cache
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.exe
+D:\OpenCode\RRQMColorPicker\RRQMColorPicker\obj\Debug\RRQMColorPicker.pdb
